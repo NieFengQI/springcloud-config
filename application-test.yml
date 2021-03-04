@@ -1,6 +1,6 @@
 master:
   server:
-    port: 335566
+    port: 33556677
   spring:
     application:
       name: configcenter-test
