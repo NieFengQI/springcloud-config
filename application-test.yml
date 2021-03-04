@@ -1,5 +1,6 @@
-server:
-  port: 334455667788
 spring:
-  application:
-    name: configcenter-test
+  server:
+    port: 3355
+  spring:
+    application:
+      name: configcenter-test
