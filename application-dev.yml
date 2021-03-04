@@ -1,6 +1,8 @@
-server:
-  port: 334455667788
+master:
+  server:
+    port: 334455667788
 
-spring:
-  application:
-    name: configcenter
+master:
+  spring:
+    application:
+      name: configcenter
